@@ -1,0 +1,2 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1699892912823,19,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",bzm - Concurrency Thread Group (scenario 1 - load)-ThreadStarter 1-1,text,false,,2630,0,1,1,http://localhost:8080/persons/bernardo@gmail.com/ledgers/records,0,0,18

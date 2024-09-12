@@ -1,0 +1,34 @@
+{
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 344254,
+    "errorCount" : 240486,
+    "errorPct" : 69.85714,
+    "meanResTime" : 3829.826331720226,
+    "medianResTime" : 6190.5,
+    "minResTime" : 1.0,
+    "maxResTime" : 97842.0,
+    "pct1ResTime" : 18568.800000000017,
+    "pct2ResTime" : 24924.800000000003,
+    "pct3ResTime" : 50674.0,
+    "throughput" : 88.09043897828049,
+    "receivedKBytesPerSec" : 179.91561258303884,
+    "sentKBytesPerSec" : 8.132770966192473
+  },
+  "Create Person Record - LoadTest" : {
+    "transaction" : "Create Person Record - LoadTest",
+    "sampleCount" : 344254,
+    "errorCount" : 240486,
+    "errorPct" : 69.85714,
+    "meanResTime" : 3829.826331720226,
+    "medianResTime" : 6190.5,
+    "minResTime" : 1.0,
+    "maxResTime" : 97842.0,
+    "pct1ResTime" : 18568.800000000017,
+    "pct2ResTime" : 24924.800000000003,
+    "pct3ResTime" : 50674.0,
+    "throughput" : 88.09043897828049,
+    "receivedKBytesPerSec" : 179.91561258303884,
+    "sentKBytesPerSec" : 8.132770966192473
+  }
+}

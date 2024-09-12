@@ -1,0 +1,34 @@
+{
+  "Create Person Record - Soak Test" : {
+    "transaction" : "Create Person Record - Soak Test",
+    "sampleCount" : 219516,
+    "errorCount" : 157032,
+    "errorPct" : 71.53556,
+    "meanResTime" : 1108.9437763078838,
+    "medianResTime" : 1672.0,
+    "minResTime" : 2.0,
+    "maxResTime" : 14606.0,
+    "pct1ResTime" : 4977.800000000003,
+    "pct2ResTime" : 7457.0,
+    "pct3ResTime" : 10697.740000000042,
+    "throughput" : 304.45202629608053,
+    "receivedKBytesPerSec" : 635.0858785015499,
+    "sentKBytesPerSec" : 26.552121094508475
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 219516,
+    "errorCount" : 157032,
+    "errorPct" : 71.53556,
+    "meanResTime" : 1108.9437763078838,
+    "medianResTime" : 1672.0,
+    "minResTime" : 2.0,
+    "maxResTime" : 14606.0,
+    "pct1ResTime" : 4977.800000000003,
+    "pct2ResTime" : 7457.0,
+    "pct3ResTime" : 10697.740000000042,
+    "throughput" : 304.45202629608053,
+    "receivedKBytesPerSec" : 635.0858785015499,
+    "sentKBytesPerSec" : 26.552121094508475
+  }
+}
